@@ -1,5 +1,18 @@
 <!doctype html>
 <html lang="en">
+<style>
+.fivesolidblue {
+    border: 5px solid blue;
+}
+
+.fivedottedbrown {
+    border: 5px dotted brown;
+}
+
+.fivedashedblue {
+    border: 3px dashed black;
+}
+</style>
 
 <head>
     <!-- Required meta tags -->
